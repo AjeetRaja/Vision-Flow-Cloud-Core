@@ -25,5 +25,7 @@ To provision this infrastructure, use the standard Terraform lifecycle workflow:
 1. `terraform init` - Initialize provider plugins.
 2. `terraform plan` - Preview the infrastructure execution blueprint.
 3. `terraform apply` - Provision resources on live AWS cloud environment.
-##Architectural Diagram
+
+
+## Architectural Diagram
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/772420b4-8b72-416a-88eb-01f7eb21614f" />
